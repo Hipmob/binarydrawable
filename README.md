@@ -43,6 +43,7 @@ Notes
 
 * The current implementation only accepts JPG and PNG formatted images.
 
+Author
 ======
 Developed by Femi Omojola (femi@hipmob.com) for Orthogonal Labs, Inc. (https://hipmob.com).
 
