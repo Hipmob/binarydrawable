@@ -22,7 +22,7 @@ Run
 To convert any image that can be understood by the Android platform's built-in [BitmapFactory][1] into a BinaryDrawable instance:
 
 <pre class="brush: bash">
-java -jar binarydrawable.jar -i <image file> -o <class name> -p <package name>
+java -jar binarydrawable.jar -i &lt;image file&gt; -o &lt;class name&gt; -p &lt;package name&gt;
 </pre>
 
 Only the image file and the class name are required. If the package name is not specified then the generated class will not have a package statement. As an example, to convert **disconnected.png** into the source file ***Disconnected.java*** in the package ***com.hipmob.android.binary***:
